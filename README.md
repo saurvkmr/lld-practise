@@ -7,3 +7,4 @@ HLD & LLD Practise
   - [ ] BookMyShow
   - [ ] Swiggy
   - [ ] Apna (job portal)
+  - [ ] Ride sharing app
